@@ -1,6 +1,7 @@
 ## nlp-tutorial
+NLP-tutorial是为使用TensorFlow和Pytorch学习NLP的人编写的教程。NLP中的大多数模型都是用不到100行代码实现的。(注释或空行除外)
 
-<p align="center"><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/225px-TensorFlowLogo.svg.png" />  <img width="100" src="https://media-thumbs.golden.com/OLqzmrmwAzY1P7Sl29k2T9WjJdM=/200x200/smart/golden-storage-production.s3.amazonaws.com/topic_images/e08914afa10a4179893eeb07cb5e4713.png" /></p>
+作者在每一个模型中，都用了一种实例来表示实现该模型，比如句子分类、机器翻译等。每个案例都对应一篇论文，大家可以对应论文再结合百行不到的代码，我相信你的理论与实践会进步的飞快的！
 
 `nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using **TensorFlow** and **Pytorch**. Most of the models in NLP were implemented with less than **100 lines** of code.(except comments or blank lines)
 
